@@ -1,0 +1,612 @@
+2025-05-14 13:55:02,721 - INFO - Uploads directory ensured: uploads
+2025-05-14 13:55:02,731 - INFO - Initialized empty job listings
+2025-05-14 13:55:09,082 - INFO - Uploads directory ensured: uploads
+2025-05-14 13:55:09,090 - INFO - Initialized empty job listings
+2025-05-14 13:57:46,393 - INFO - main.py:45 - Uploads directory ensured: uploads
+2025-05-14 13:57:46,401 - INFO - main.py:381 - Initialized empty job listings
+2025-05-14 13:59:49,326 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-14 13:59:49,326 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-14 13:59:49,334 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-14 14:06:20,282 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-14 14:06:20,282 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-14 14:06:20,290 - INFO - main.py:375 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-14 14:06:21,734 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-14 14:06:21,734 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-14 14:06:21,741 - INFO - main.py:403 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-14 14:06:23,893 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-14 14:06:23,893 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-14 14:06:23,900 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-14 14:41:02,461 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-14 14:41:02,461 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-14 14:41:02,469 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-14 14:41:12,585 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-14 14:41:12,585 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-14 14:41:12,593 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-14 14:41:18,985 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-14 14:41:18,985 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-14 14:41:18,993 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-14 14:42:15,667 - INFO - main.py:170 - app_with_enhanced_logging.py:159 - Register attempt for email: stella@gmail.com
+2025-05-14 14:42:15,668 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-14 14:42:15,766 - INFO - database.py:40 - Connection object created
+2025-05-14 14:42:15,766 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-14 14:42:15,766 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-14 14:42:15,845 - INFO - main.py:197 - app_with_enhanced_logging.py:185 - User stella@gmail.com registered successfully
+2025-05-14 14:42:35,792 - INFO - main.py:204 - app_with_enhanced_logging.py:191 - Login attempt for email: stella@gmail.com
+2025-05-14 14:42:35,793 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-14 14:42:35,809 - INFO - database.py:40 - Connection object created
+2025-05-14 14:42:35,809 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-14 14:42:35,809 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-14 14:42:35,870 - INFO - main.py:222 - app_with_enhanced_logging.py:208 - User stella@gmail.com logged in successfully
+2025-05-15 11:13:50,436 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-15 11:13:50,437 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-15 11:13:50,445 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-15 11:13:51,388 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-15 11:13:51,388 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-15 11:13:51,396 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-15 11:13:54,677 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-15 11:13:54,677 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-15 11:13:54,685 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-15 11:13:58,469 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-15 11:13:58,469 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-15 11:13:58,476 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-15 12:04:10,919 - INFO - main.py:204 - app_with_enhanced_logging.py:191 - Login attempt for email: jansi@gmail.com
+2025-05-15 12:04:10,920 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-15 12:04:11,027 - INFO - database.py:40 - Connection object created
+2025-05-15 12:04:11,027 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-15 12:04:11,027 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-15 12:04:11,039 - WARNING - main.py:219 - app_with_enhanced_logging.py:205 - Invalid login attempt for jansi@gmail.com
+2025-05-15 12:04:17,473 - INFO - main.py:204 - app_with_enhanced_logging.py:191 - Login attempt for email: jansi@gmail.com
+2025-05-15 12:04:17,473 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-15 12:04:17,486 - INFO - database.py:40 - Connection object created
+2025-05-15 12:04:17,487 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-15 12:04:17,487 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-15 12:04:17,494 - WARNING - main.py:219 - app_with_enhanced_logging.py:205 - Invalid login attempt for jansi@gmail.com
+2025-05-19 14:21:47,518 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-19 14:21:47,518 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-19 14:21:47,526 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-19 14:22:13,809 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-19 14:22:13,809 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-19 14:22:13,816 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-19 17:24:41,376 - INFO - main.py:170 - app_with_enhanced_logging.py:159 - Register attempt for email: manyaav9@gamil.com
+2025-05-19 17:24:41,377 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-19 17:24:41,491 - INFO - database.py:40 - Connection object created
+2025-05-19 17:24:41,491 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-19 17:24:41,491 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-19 17:24:41,569 - INFO - main.py:197 - app_with_enhanced_logging.py:185 - User manyaav9@gamil.com registered successfully
+2025-05-19 17:25:43,784 - INFO - main.py:170 - app_with_enhanced_logging.py:159 - Register attempt for email: theekshareddy11@gmail.com
+2025-05-19 17:25:43,785 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-19 17:25:43,798 - INFO - database.py:40 - Connection object created
+2025-05-19 17:25:43,798 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-19 17:25:43,798 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-19 17:25:43,850 - INFO - main.py:197 - app_with_enhanced_logging.py:185 - User theekshareddy11@gmail.com registered successfully
+2025-05-19 17:25:58,987 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: theekshareddy11@gmail.com
+2025-05-19 17:25:58,987 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-19 17:25:58,997 - INFO - database.py:40 - Connection object created
+2025-05-19 17:25:58,997 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-19 17:25:58,998 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-19 17:26:06,249 - INFO - main.py:71 - app_with_enhanced_logging.py:77 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-19 17:26:06,251 - INFO - main.py:252 - app_with_enhanced_logging.py:237 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-19 17:26:47,992 - INFO - main.py:260 - app_with_enhanced_logging.py:245 - OTP verification attempt for email: theekshareddy11@gmail.com
+2025-05-19 17:26:47,992 - INFO - main.py:272 - app_with_enhanced_logging.py:257 - OTP verified successfully for theekshareddy11@gmail.com
+2025-05-19 17:50:32,843 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: theekshareddy11@gmail.com
+2025-05-19 17:50:32,844 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-19 17:50:32,921 - INFO - database.py:40 - Connection object created
+2025-05-19 17:50:32,921 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-19 17:50:32,921 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-19 17:50:36,068 - INFO - main.py:71 - app_with_enhanced_logging.py:77 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-19 17:50:36,068 - INFO - main.py:252 - app_with_enhanced_logging.py:237 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-19 17:50:57,930 - INFO - main.py:260 - app_with_enhanced_logging.py:245 - OTP verification attempt for email: theekshareddy11@gmail.com
+2025-05-19 17:50:57,930 - INFO - main.py:272 - app_with_enhanced_logging.py:257 - OTP verified successfully for theekshareddy11@gmail.com
+2025-05-19 17:58:33,744 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: theekshareddy11@gmail.com
+2025-05-19 17:58:33,746 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-19 17:58:33,817 - INFO - database.py:40 - Connection object created
+2025-05-19 17:58:33,817 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-19 17:58:33,817 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-19 17:58:37,199 - INFO - main.py:71 - app_with_enhanced_logging.py:77 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-19 17:58:37,200 - INFO - main.py:252 - app_with_enhanced_logging.py:237 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-19 17:58:51,751 - INFO - main.py:260 - app_with_enhanced_logging.py:245 - OTP verification attempt for email: theekshareddy11@gmail.com
+2025-05-19 17:58:51,752 - INFO - main.py:272 - app_with_enhanced_logging.py:257 - OTP verified successfully for theekshareddy11@gmail.com
+2025-05-19 18:04:05,410 - INFO - main.py:204 - app_with_enhanced_logging.py:191 - Login attempt for email: theekshareddy11@gmail.com
+2025-05-19 18:04:05,411 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-19 18:04:05,460 - INFO - database.py:40 - Connection object created
+2025-05-19 18:04:05,460 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-19 18:04:05,460 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-19 18:04:05,517 - INFO - main.py:222 - app_with_enhanced_logging.py:208 - User theekshareddy11@gmail.com logged in successfully
+2025-05-20 10:08:34,627 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: theekshareddy11@gmail.com
+2025-05-20 10:08:34,630 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-20 10:08:34,706 - INFO - database.py:40 - Connection object created
+2025-05-20 10:08:34,706 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-20 10:08:34,706 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-20 10:08:38,136 - INFO - main.py:71 - app_with_enhanced_logging.py:77 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-20 10:08:38,136 - INFO - main.py:252 - app_with_enhanced_logging.py:237 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-20 10:09:05,575 - INFO - main.py:260 - app_with_enhanced_logging.py:245 - OTP verification attempt for email: theekshareddy11@gmail.com
+2025-05-20 10:09:05,575 - INFO - main.py:272 - app_with_enhanced_logging.py:257 - OTP verified successfully for theekshareddy11@gmail.com
+2025-05-20 10:10:50,112 - INFO - main.py:204 - app_with_enhanced_logging.py:191 - Login attempt for email: theekshareddy11@gmail.com
+2025-05-20 10:10:50,116 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-20 10:10:50,130 - INFO - database.py:40 - Connection object created
+2025-05-20 10:10:50,130 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-20 10:10:50,130 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-20 10:10:50,184 - INFO - main.py:222 - app_with_enhanced_logging.py:208 - User theekshareddy11@gmail.com logged in successfully
+2025-05-20 10:11:03,832 - INFO - main.py:552 - app_with_enhanced_logging.py:516 - Fetching all candidate profiles
+2025-05-20 10:11:03,832 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-20 10:11:03,844 - INFO - database.py:40 - Connection object created
+2025-05-20 10:11:03,845 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-20 10:11:03,845 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-20 10:11:03,863 - INFO - main.py:591 - app_with_enhanced_logging.py:551 - Retrieved 1 candidate profiles
+2025-05-20 10:13:16,630 - INFO - main.py:552 - app_with_enhanced_logging.py:516 - Fetching all candidate profiles
+2025-05-20 10:13:16,632 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-20 10:13:16,656 - INFO - database.py:40 - Connection object created
+2025-05-20 10:13:16,656 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-20 10:13:16,657 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-20 10:13:16,660 - INFO - main.py:591 - app_with_enhanced_logging.py:551 - Retrieved 1 candidate profiles
+2025-05-20 10:14:02,005 - INFO - main.py:552 - app_with_enhanced_logging.py:516 - Fetching all candidate profiles
+2025-05-20 10:14:02,005 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-20 10:14:02,021 - INFO - database.py:40 - Connection object created
+2025-05-20 10:14:02,021 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-20 10:14:02,021 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-20 10:14:02,024 - INFO - main.py:591 - app_with_enhanced_logging.py:551 - Retrieved 1 candidate profiles
+2025-05-21 12:58:45,450 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-21 12:58:45,452 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-21 12:58:45,461 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-21 13:24:35,990 - INFO - main.py:170 - app_with_enhanced_logging.py:159 - Register attempt for email: thee@gmail.com
+2025-05-21 13:24:35,992 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-21 13:24:36,183 - INFO - database.py:40 - Connection object created
+2025-05-21 13:24:36,184 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-21 13:24:36,184 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-21 13:24:36,299 - INFO - main.py:197 - app_with_enhanced_logging.py:185 - User thee@gmail.com registered successfully
+2025-05-21 14:09:58,200 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: theekshareddy11@gmail.com
+2025-05-21 14:09:58,201 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-21 14:09:58,283 - INFO - database.py:40 - Connection object created
+2025-05-21 14:09:58,283 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-21 14:09:58,283 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-21 14:10:01,883 - INFO - main.py:71 - app_with_enhanced_logging.py:77 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-21 14:10:01,883 - INFO - main.py:252 - app_with_enhanced_logging.py:237 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-21 14:10:20,436 - INFO - main.py:260 - app_with_enhanced_logging.py:245 - OTP verification attempt for email: theekshareddy11@gmail.com
+2025-05-21 14:10:20,436 - INFO - main.py:272 - app_with_enhanced_logging.py:257 - OTP verified successfully for theekshareddy11@gmail.com
+2025-05-21 14:13:11,430 - INFO - main.py:204 - app_with_enhanced_logging.py:191 - Login attempt for email: theekshareddy11@gmail.com
+2025-05-21 14:13:11,431 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-21 14:13:11,546 - INFO - database.py:40 - Connection object created
+2025-05-21 14:13:11,547 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-21 14:13:11,547 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-21 14:13:11,631 - WARNING - main.py:219 - app_with_enhanced_logging.py:205 - Invalid login attempt for theekshareddy11@gmail.com
+2025-05-21 14:13:25,531 - INFO - main.py:204 - app_with_enhanced_logging.py:191 - Login attempt for email: thee@gmail.com
+2025-05-21 14:13:25,532 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-21 14:13:25,549 - INFO - database.py:40 - Connection object created
+2025-05-21 14:13:25,549 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-21 14:13:25,549 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-21 14:13:25,603 - INFO - main.py:222 - app_with_enhanced_logging.py:208 - User thee@gmail.com logged in successfully
+2025-05-21 14:13:39,571 - INFO - main.py:552 - app_with_enhanced_logging.py:516 - Fetching all candidate profiles
+2025-05-21 14:13:39,572 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-21 14:13:39,590 - INFO - database.py:40 - Connection object created
+2025-05-21 14:13:39,590 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-21 14:13:39,591 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-21 14:13:39,633 - INFO - main.py:591 - app_with_enhanced_logging.py:551 - Retrieved 1 candidate profiles
+2025-05-22 10:27:36,282 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 10:27:36,282 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 10:27:36,290 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-22 10:30:31,406 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 10:30:31,406 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 10:30:31,414 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-22 10:31:57,152 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 10:31:57,153 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 10:31:57,160 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-22 13:29:00,060 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 13:29:00,061 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 13:29:00,069 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-22 13:29:19,369 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 13:29:19,369 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 13:29:19,378 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-22 17:14:16,869 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 17:14:16,870 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 17:14:16,878 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-22 17:14:23,496 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 17:14:23,496 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 17:14:23,505 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-22 17:14:25,096 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-22 17:14:25,096 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-22 17:14:25,104 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-23 18:34:09,536 - INFO - main.py:170 - app_with_enhanced_logging.py:159 - Register attempt for email: jai@gmail.com
+2025-05-23 18:34:09,537 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 18:34:09,661 - INFO - database.py:40 - Connection object created
+2025-05-23 18:34:09,661 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 18:34:09,661 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 18:34:09,748 - INFO - main.py:197 - app_with_enhanced_logging.py:185 - User jai@gmail.com registered successfully
+2025-05-23 21:21:21,692 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: theekshareddy11@gmail.com
+2025-05-23 21:21:21,694 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 21:21:21,805 - INFO - database.py:40 - Connection object created
+2025-05-23 21:21:21,806 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 21:21:21,806 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 21:21:24,346 - ERROR - main.py:74 - app_with_enhanced_logging.py:80 - Failed to send email to theekshareddy11@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-310f7eeb966sm771156a91.26 - gsmtp')
+2025-05-23 21:21:24,346 - ERROR - main.py:255 - app_with_enhanced_logging.py:240 - Failed to send OTP to theekshareddy11@gmail.com
+2025-05-23 21:22:39,206 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-23 21:22:39,206 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-23 21:22:39,233 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-23 21:22:44,451 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-23 21:22:44,451 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-23 21:22:44,459 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-23 21:22:45,937 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-23 21:22:45,937 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-23 21:22:45,945 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-23 21:22:48,212 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-23 21:22:48,212 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-23 21:22:48,220 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-23 21:26:57,554 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-23 21:26:57,554 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-23 21:26:57,562 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-23 21:27:02,691 - INFO - main.py:38 - app_with_enhanced_logging.py:45 - CORS middleware configured
+2025-05-23 21:27:02,691 - INFO - main.py:47 - app_with_enhanced_logging.py:54 - Uploads directory ensured: uploads
+2025-05-23 21:27:02,699 - INFO - main.py:404 - app_with_enhanced_logging.py:385 - Initialized empty job listings
+2025-05-23 21:27:10,918 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: theekshareddy11@gmail.com
+2025-05-23 21:27:10,918 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 21:27:11,046 - INFO - database.py:40 - Connection object created
+2025-05-23 21:27:11,047 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 21:27:11,047 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 21:27:14,690 - INFO - main.py:71 - app_with_enhanced_logging.py:77 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-23 21:27:14,691 - INFO - main.py:252 - app_with_enhanced_logging.py:237 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-23 21:29:39,719 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: kirubakcse@gmail.com
+2025-05-23 21:29:39,722 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 21:29:39,753 - INFO - database.py:40 - Connection object created
+2025-05-23 21:29:39,753 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 21:29:39,753 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 21:29:39,757 - WARNING - main.py:241 - app_with_enhanced_logging.py:226 - Email kirubakcse@gmail.com not registered
+2025-05-23 21:29:50,187 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: kirubakcse@gmail.com
+2025-05-23 21:29:50,188 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 21:29:50,214 - INFO - database.py:40 - Connection object created
+2025-05-23 21:29:50,215 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 21:29:50,215 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 21:29:50,217 - WARNING - main.py:241 - app_with_enhanced_logging.py:226 - Email kirubakcse@gmail.com not registered
+2025-05-23 21:30:31,427 - INFO - main.py:170 - app_with_enhanced_logging.py:159 - Register attempt for email: kirubakcse@gmail.com
+2025-05-23 21:30:31,433 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 21:30:31,457 - INFO - database.py:40 - Connection object created
+2025-05-23 21:30:31,457 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 21:30:31,457 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 21:30:31,544 - INFO - main.py:197 - app_with_enhanced_logging.py:185 - User kirubakcse@gmail.com registered successfully
+2025-05-23 21:31:37,627 - INFO - main.py:227 - app_with_enhanced_logging.py:213 - OTP request for email: kirubakcse@gmail.com
+2025-05-23 21:31:37,628 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 21:31:37,649 - INFO - database.py:40 - Connection object created
+2025-05-23 21:31:37,651 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 21:31:37,651 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 21:31:40,835 - INFO - main.py:71 - app_with_enhanced_logging.py:77 - Email sent successfully to kirubakcse@gmail.com
+2025-05-23 21:31:40,835 - INFO - main.py:252 - app_with_enhanced_logging.py:237 - OTP sent successfully to kirubakcse@gmail.com
+2025-05-23 21:33:35,519 - INFO - main.py:260 - app_with_enhanced_logging.py:245 - OTP verification attempt for email: kirubakcse@gmail.com
+2025-05-23 21:33:35,521 - INFO - main.py:272 - app_with_enhanced_logging.py:257 - OTP verified successfully for kirubakcse@gmail.com
+2025-05-23 23:08:34,927 - INFO - main.py:38 - CORS middleware configured
+2025-05-23 23:08:34,928 - INFO - main.py:42 - OTP storage initialized
+2025-05-23 23:08:34,928 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-23 23:08:34,928 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-23 23:08:34,937 - INFO - main.py:378 - Initialized empty job listings
+2025-05-23 23:24:56,913 - INFO - main.py:218 - OTP request for email: theekshareddy11@gmail.com
+2025-05-23 23:24:56,914 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 23:24:57,040 - INFO - database.py:40 - Connection object created
+2025-05-23 23:24:57,040 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 23:24:57,040 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 23:24:57,065 - INFO - main.py:58 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-23 23:24:57,277 - ERROR - main.py:74 - Failed to send email to theekshareddy11@gmail.com: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+2025-05-23 23:24:57,277 - ERROR - main.py:240 - Failed to send OTP to theekshareddy11@gmail.com
+2025-05-23 23:26:36,124 - INFO - main.py:218 - OTP request for email: theekshareddy11@gmail.com
+2025-05-23 23:26:36,125 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 23:26:36,228 - INFO - database.py:40 - Connection object created
+2025-05-23 23:26:36,228 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 23:26:36,228 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 23:26:36,252 - INFO - main.py:58 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-23 23:26:36,472 - ERROR - main.py:74 - Failed to send email to theekshareddy11@gmail.com: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+2025-05-23 23:26:36,473 - ERROR - main.py:240 - Failed to send OTP to theekshareddy11@gmail.com
+2025-05-23 23:36:22,395 - INFO - main.py:38 - CORS middleware configured
+2025-05-23 23:36:22,396 - INFO - main.py:42 - OTP storage initialized
+2025-05-23 23:36:22,396 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-23 23:36:22,396 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-23 23:36:22,404 - INFO - main.py:378 - Initialized empty job listings
+2025-05-23 23:36:39,554 - INFO - main.py:217 - OTP request for email: theekshareddy11@gmail.com
+2025-05-23 23:36:39,554 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-23 23:36:39,706 - INFO - database.py:40 - Connection object created
+2025-05-23 23:36:39,707 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-23 23:36:39,707 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-23 23:36:39,739 - INFO - main.py:58 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-23 23:36:39,979 - ERROR - main.py:73 - Failed to send email to theekshareddy11@gmail.com: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020) - Type: SMTPConnectError
+2025-05-23 23:36:39,979 - ERROR - main.py:237 - Failed to send OTP to theekshareddy11@gmail.com
+2025-05-23 23:36:39,979 - ERROR - main.py:240 - Error in send_otp for theekshareddy11@gmail.com: 500: Failed to send OTP - Type: HTTPException
+2025-05-23 23:47:05,083 - INFO - main.py:38 - CORS middleware configured
+2025-05-23 23:47:05,084 - INFO - main.py:42 - OTP storage initialized
+2025-05-23 23:47:05,084 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-23 23:47:05,084 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-23 23:47:05,093 - INFO - main.py:378 - Initialized empty job listings
+2025-05-24 00:10:56,043 - INFO - main.py:43 - CORS middleware configured
+2025-05-24 00:10:56,044 - INFO - main.py:47 - OTP storage initialized
+2025-05-24 00:10:56,044 - INFO - main.py:52 - Uploads directory ensured: uploads
+2025-05-24 00:10:56,044 - INFO - main.py:59 - SMTP configuration loaded
+2025-05-24 00:10:56,048 - INFO - main.py:296 - Initialized empty job listings
+2025-05-24 00:14:25,172 - INFO - main.py:148 - OTP request for email: theekshareddy11@gmail.com
+2025-05-24 00:14:25,173 - INFO - main.py:64 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 00:14:25,506 - ERROR - main.py:79 - Failed to send email to theekshareddy11@gmail.com: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020) - Type: SMTPConnectError
+2025-05-24 00:14:25,506 - ERROR - main.py:80 - Full traceback:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 499, in _create_connection
+    transport, _ = await asyncio.wait_for(connect_coro, timeout=timeout)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "uvloop/loop.pyx", line 2088, in create_connection
+  File "uvloop/loop.pyx", line 2083, in uvloop.loop.Loop.create_connection
+  File "uvloop/sslproto.pyx", line 517, in uvloop.loop.SSLProtocol._on_handshake_complete
+  File "uvloop/sslproto.pyx", line 499, in uvloop.loop.SSLProtocol._do_handshake
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 951, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/theekshamya/Downloads/jobportalbackend/main.py", line 72, in send_email
+    await smtp.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 449, in connect
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 442, in connect
+    response = await self._create_connection(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=self.timeout if timeout is Default.token else timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 505, in _create_connection
+    raise SMTPConnectError(
+        f"Error connecting to {self.hostname} on port {self.port}: {exc}"
+    ) from exc
+aiosmtplib.errors.SMTPConnectError: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+2025-05-24 00:14:27,519 - INFO - main.py:64 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 00:14:27,677 - ERROR - main.py:79 - Failed to send email to theekshareddy11@gmail.com: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020) - Type: SMTPConnectError
+2025-05-24 00:14:27,678 - ERROR - main.py:80 - Full traceback:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 499, in _create_connection
+    transport, _ = await asyncio.wait_for(connect_coro, timeout=timeout)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "uvloop/loop.pyx", line 2088, in create_connection
+  File "uvloop/loop.pyx", line 2083, in uvloop.loop.Loop.create_connection
+  File "uvloop/sslproto.pyx", line 517, in uvloop.loop.SSLProtocol._on_handshake_complete
+  File "uvloop/sslproto.pyx", line 499, in uvloop.loop.SSLProtocol._do_handshake
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 951, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/theekshamya/Downloads/jobportalbackend/main.py", line 72, in send_email
+    await smtp.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 449, in connect
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 442, in connect
+    response = await self._create_connection(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=self.timeout if timeout is Default.token else timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 505, in _create_connection
+    raise SMTPConnectError(
+        f"Error connecting to {self.hostname} on port {self.port}: {exc}"
+    ) from exc
+aiosmtplib.errors.SMTPConnectError: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+2025-05-24 00:14:29,681 - INFO - main.py:64 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 00:14:29,844 - ERROR - main.py:79 - Failed to send email to theekshareddy11@gmail.com: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020) - Type: SMTPConnectError
+2025-05-24 00:14:29,844 - ERROR - main.py:80 - Full traceback:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 499, in _create_connection
+    transport, _ = await asyncio.wait_for(connect_coro, timeout=timeout)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/tasks.py", line 507, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "uvloop/loop.pyx", line 2088, in create_connection
+  File "uvloop/loop.pyx", line 2083, in uvloop.loop.Loop.create_connection
+  File "uvloop/sslproto.pyx", line 517, in uvloop.loop.SSLProtocol._on_handshake_complete
+  File "uvloop/sslproto.pyx", line 499, in uvloop.loop.SSLProtocol._do_handshake
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 951, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/theekshamya/Downloads/jobportalbackend/main.py", line 72, in send_email
+    await smtp.connect()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 449, in connect
+    raise exc
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 442, in connect
+    response = await self._create_connection(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        timeout=self.timeout if timeout is Default.token else timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 505, in _create_connection
+    raise SMTPConnectError(
+        f"Error connecting to {self.hostname} on port {self.port}: {exc}"
+    ) from exc
+aiosmtplib.errors.SMTPConnectError: Error connecting to smtp.gmail.com on port 465: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1020)
+2025-05-24 00:14:29,847 - ERROR - main.py:161 - Error in send_otp for theekshareddy11@gmail.com: RetryError[<Future at 0x1080211d0 state=finished raised SMTPConnectError>] - Type: RetryError
+2025-05-24 00:23:39,541 - INFO - main.py:43 - CORS middleware configured
+2025-05-24 00:23:39,541 - INFO - main.py:47 - OTP storage initialized
+2025-05-24 00:23:39,541 - INFO - main.py:52 - Uploads directory ensured: uploads
+2025-05-24 00:23:39,542 - INFO - main.py:59 - SMTP configuration loaded
+2025-05-24 00:23:39,550 - INFO - main.py:296 - Initialized empty job listings
+2025-05-24 00:25:11,327 - INFO - main.py:43 - CORS middleware configured
+2025-05-24 00:25:11,328 - INFO - main.py:47 - OTP storage initialized
+2025-05-24 00:25:11,328 - INFO - main.py:52 - Uploads directory ensured: uploads
+2025-05-24 00:25:11,328 - INFO - main.py:59 - SMTP configuration loaded
+2025-05-24 00:25:11,331 - INFO - main.py:296 - Initialized empty job listings
+2025-05-24 00:27:28,041 - INFO - main.py:148 - OTP request for email: theekshareddy11@gmail.com
+2025-05-24 00:27:28,042 - INFO - main.py:64 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 00:27:29,725 - ERROR - main.py:79 - Failed to send email to theekshareddy11@gmail.com: 'NoneType' object has no attribute 'encode' - Type: AttributeError
+2025-05-24 00:27:29,725 - ERROR - main.py:80 - Full traceback:
+Traceback (most recent call last):
+  File "/Users/theekshamya/Downloads/jobportalbackend/main.py", line 73, in send_email
+    await smtp.login(SMTP_USER, SMTP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 1099, in login
+    response = await auth_method(username, password, timeout=timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 1169, in auth_plain
+    encoded = auth_plain_encode(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/auth.py", line 49, in auth_plain_encode
+    username_bytes = _ensure_bytes(username)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/auth.py", line 17, in _ensure_bytes
+    return value.encode("utf-8")
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+2025-05-24 00:27:31,736 - INFO - main.py:64 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 00:27:32,391 - ERROR - main.py:79 - Failed to send email to theekshareddy11@gmail.com: 'NoneType' object has no attribute 'encode' - Type: AttributeError
+2025-05-24 00:27:32,392 - ERROR - main.py:80 - Full traceback:
+Traceback (most recent call last):
+  File "/Users/theekshamya/Downloads/jobportalbackend/main.py", line 73, in send_email
+    await smtp.login(SMTP_USER, SMTP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 1099, in login
+    response = await auth_method(username, password, timeout=timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 1169, in auth_plain
+    encoded = auth_plain_encode(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/auth.py", line 49, in auth_plain_encode
+    username_bytes = _ensure_bytes(username)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/auth.py", line 17, in _ensure_bytes
+    return value.encode("utf-8")
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+2025-05-24 00:27:34,394 - INFO - main.py:64 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 00:27:35,041 - ERROR - main.py:79 - Failed to send email to theekshareddy11@gmail.com: 'NoneType' object has no attribute 'encode' - Type: AttributeError
+2025-05-24 00:27:35,041 - ERROR - main.py:80 - Full traceback:
+Traceback (most recent call last):
+  File "/Users/theekshamya/Downloads/jobportalbackend/main.py", line 73, in send_email
+    await smtp.login(SMTP_USER, SMTP_PASSWORD)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 1099, in login
+    response = await auth_method(username, password, timeout=timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/smtp.py", line 1169, in auth_plain
+    encoded = auth_plain_encode(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/auth.py", line 49, in auth_plain_encode
+    username_bytes = _ensure_bytes(username)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/aiosmtplib/auth.py", line 17, in _ensure_bytes
+    return value.encode("utf-8")
+           ^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'encode'
+2025-05-24 00:27:35,043 - ERROR - main.py:161 - Error in send_otp for theekshareddy11@gmail.com: RetryError[<Future at 0x10458c7d0 state=finished raised AttributeError>] - Type: RetryError
+2025-05-24 09:48:35,194 - INFO - main.py:43 - CORS middleware configured
+2025-05-24 09:48:35,195 - INFO - main.py:47 - OTP storage initialized
+2025-05-24 09:48:35,195 - INFO - main.py:52 - Uploads directory ensured: uploads
+2025-05-24 09:48:35,195 - INFO - main.py:59 - SMTP configuration loaded
+2025-05-24 09:48:35,201 - INFO - main.py:310 - Initialized empty job listings
+2025-05-24 09:48:38,341 - INFO - main.py:38 - CORS middleware configured
+2025-05-24 09:48:38,342 - INFO - main.py:42 - OTP storage initialized
+2025-05-24 09:48:38,342 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-24 09:48:38,342 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-24 09:48:38,349 - INFO - main.py:378 - Initialized empty job listings
+2025-05-24 09:48:52,906 - INFO - main.py:38 - CORS middleware configured
+2025-05-24 09:48:52,907 - INFO - main.py:42 - OTP storage initialized
+2025-05-24 09:48:52,907 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-24 09:48:52,907 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-24 09:48:52,916 - INFO - main.py:378 - Initialized empty job listings
+2025-05-24 09:48:56,411 - INFO - main.py:38 - CORS middleware configured
+2025-05-24 09:48:56,411 - INFO - main.py:42 - OTP storage initialized
+2025-05-24 09:48:56,412 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-24 09:48:56,412 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-24 09:48:56,419 - INFO - main.py:378 - Initialized empty job listings
+2025-05-24 09:49:01,049 - INFO - main.py:38 - CORS middleware configured
+2025-05-24 09:49:01,049 - INFO - main.py:42 - OTP storage initialized
+2025-05-24 09:49:01,049 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-24 09:49:01,049 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-24 09:49:01,056 - INFO - main.py:378 - Initialized empty job listings
+2025-05-24 09:49:07,562 - INFO - main.py:38 - CORS middleware configured
+2025-05-24 09:49:07,563 - INFO - main.py:42 - OTP storage initialized
+2025-05-24 09:49:07,563 - INFO - main.py:47 - Uploads directory ensured: uploads
+2025-05-24 09:49:07,563 - INFO - main.py:54 - SMTP configuration loaded
+2025-05-24 09:49:07,570 - INFO - main.py:378 - Initialized empty job listings
+2025-05-24 14:53:59,195 - INFO - main.py:197 - Login attempt for email: theekshareddy11@gmail.com
+2025-05-24 14:53:59,195 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 14:53:59,329 - INFO - database.py:40 - Connection object created
+2025-05-24 14:53:59,330 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 14:53:59,330 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 14:53:59,395 - WARNING - main.py:207 - Invalid login attempt for theekshareddy11@gmail.com
+2025-05-24 14:54:20,540 - INFO - main.py:167 - Register attempt for email: ram@gmail.com
+2025-05-24 14:54:20,541 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 14:54:20,560 - INFO - database.py:40 - Connection object created
+2025-05-24 14:54:20,560 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 14:54:20,560 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 14:54:20,646 - INFO - main.py:189 - User ram@gmail.com registered successfully
+2025-05-24 14:54:33,017 - INFO - main.py:197 - Login attempt for email: ram@gmail.com
+2025-05-24 14:54:33,018 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 14:54:33,036 - INFO - database.py:40 - Connection object created
+2025-05-24 14:54:33,037 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 14:54:33,037 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 14:54:33,107 - INFO - main.py:209 - User ram@gmail.com logged in successfully
+2025-05-24 14:55:54,040 - INFO - main.py:197 - Login attempt for email: ram@gmail.com
+2025-05-24 14:55:54,042 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 14:55:54,169 - INFO - database.py:40 - Connection object created
+2025-05-24 14:55:54,169 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 14:55:54,169 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 14:55:54,249 - INFO - main.py:209 - User ram@gmail.com logged in successfully
+2025-05-24 14:56:16,076 - INFO - main.py:217 - OTP request for email: theekshareddy11@gmail.com
+2025-05-24 14:56:16,076 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 14:56:16,095 - INFO - database.py:40 - Connection object created
+2025-05-24 14:56:16,095 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 14:56:16,095 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 14:56:16,099 - INFO - main.py:58 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 14:56:19,175 - INFO - main.py:70 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-24 14:56:19,175 - INFO - main.py:234 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-24 14:56:40,306 - INFO - main.py:248 - OTP verification attempt for email: theekshareddy11@gmail.com
+2025-05-24 14:56:40,307 - INFO - main.py:258 - OTP verified successfully for theekshareddy11@gmail.com
+2025-05-24 22:19:32,426 - INFO - main.py:197 - Login attempt for email: theekshareddy11@gmail.com
+2025-05-24 22:19:32,429 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:19:32,547 - INFO - database.py:40 - Connection object created
+2025-05-24 22:19:32,547 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:19:32,547 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:19:32,620 - WARNING - main.py:207 - Invalid login attempt for theekshareddy11@gmail.com
+2025-05-24 22:19:40,594 - INFO - main.py:197 - Login attempt for email: theekshareddy11@gmail.com
+2025-05-24 22:19:40,595 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:19:40,611 - INFO - database.py:40 - Connection object created
+2025-05-24 22:19:40,612 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:19:40,612 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:19:40,711 - WARNING - main.py:207 - Invalid login attempt for theekshareddy11@gmail.com
+2025-05-24 22:19:52,612 - INFO - main.py:217 - OTP request for email: theekshareddy11@gmail.com
+2025-05-24 22:19:52,612 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:19:52,627 - INFO - database.py:40 - Connection object created
+2025-05-24 22:19:52,628 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:19:52,628 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:19:52,631 - INFO - main.py:58 - Sending email to theekshareddy11@gmail.com with subject: Your OTP for Login
+2025-05-24 22:19:55,833 - INFO - main.py:70 - Email sent successfully to theekshareddy11@gmail.com
+2025-05-24 22:19:55,834 - INFO - main.py:234 - OTP sent successfully to theekshareddy11@gmail.com
+2025-05-24 22:20:16,710 - INFO - main.py:248 - OTP verification attempt for email: theekshareddy11@gmail.com
+2025-05-24 22:20:16,711 - INFO - main.py:258 - OTP verified successfully for theekshareddy11@gmail.com
+2025-05-24 22:23:38,138 - INFO - main.py:167 - Register attempt for email: renu@gmail.com
+2025-05-24 22:23:38,139 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:23:38,165 - INFO - database.py:40 - Connection object created
+2025-05-24 22:23:38,166 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:23:38,166 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:23:38,243 - INFO - main.py:189 - User renu@gmail.com registered successfully
+2025-05-24 22:23:57,719 - INFO - main.py:197 - Login attempt for email: renu@gmail.com
+2025-05-24 22:23:57,720 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:23:57,745 - INFO - database.py:40 - Connection object created
+2025-05-24 22:23:57,746 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:23:57,746 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:23:57,797 - INFO - main.py:209 - User renu@gmail.com logged in successfully
+2025-05-24 22:26:39,600 - INFO - main.py:510 - Fetching all candidate profiles
+2025-05-24 22:26:39,602 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:26:39,619 - INFO - database.py:40 - Connection object created
+2025-05-24 22:26:39,620 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:26:39,620 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:26:39,634 - INFO - main.py:541 - Retrieved 1 candidate profiles
+2025-05-24 22:31:20,022 - INFO - main.py:510 - Fetching all candidate profiles
+2025-05-24 22:31:20,024 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:31:20,106 - INFO - database.py:40 - Connection object created
+2025-05-24 22:31:20,107 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:31:20,107 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:31:20,135 - INFO - main.py:541 - Retrieved 1 candidate profiles
+2025-05-24 22:31:20,341 - INFO - main.py:510 - Fetching all candidate profiles
+2025-05-24 22:31:20,341 - INFO - database.py:32 - Attempting to connect to MySQL database
+2025-05-24 22:31:20,356 - INFO - database.py:40 - Connection object created
+2025-05-24 22:31:20,356 - INFO - database.py:42 - Successfully connected to MySQL database: 9.1.0
+2025-05-24 22:31:20,356 - INFO - database.py:50 - get_db_connection function execution completed
+2025-05-24 22:31:20,357 - INFO - main.py:541 - Retrieved 1 candidate profiles

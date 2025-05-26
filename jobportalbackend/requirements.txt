@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+bcrypt
+mysql-connector-python
+pydantic
+Employee
+passlib

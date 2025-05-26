@@ -1,0 +1,190 @@
+2025-05-13 12:18:59,590 - INFO - Uploads directory ensured: uploads
+2025-05-13 12:18:59,590 - DEBUG - SMTP configuration loaded
+2025-05-13 12:18:59,598 - INFO - Initialized empty job listings
+2025-05-13 12:21:26,520 - INFO - Fetching all candidate profiles
+2025-05-13 12:21:26,651 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:21:26,675 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:21:26,822 - INFO - Fetching all candidate profiles
+2025-05-13 12:21:26,828 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:21:26,828 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:40:11,235 - INFO - Fetching all candidate profiles
+2025-05-13 12:40:11,321 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:40:11,343 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:40:11,457 - INFO - Fetching all candidate profiles
+2025-05-13 12:40:11,462 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:40:11,463 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:47:53,552 - INFO - Fetching all candidate profiles
+2025-05-13 12:47:53,636 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:47:53,656 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:47:53,768 - INFO - Fetching all candidate profiles
+2025-05-13 12:47:53,772 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:47:53,773 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:52:44,395 - INFO - Fetching all candidate profiles
+2025-05-13 12:52:44,494 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:52:44,515 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:52:44,665 - INFO - Fetching all candidate profiles
+2025-05-13 12:52:44,671 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:52:44,673 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:56:38,582 - INFO - Fetching all candidate profiles
+2025-05-13 12:56:38,617 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:56:38,619 - INFO - Retrieved 1 candidate profiles
+2025-05-13 12:56:38,716 - INFO - Fetching all candidate profiles
+2025-05-13 12:56:38,724 - DEBUG - Executing query to fetch all profiles
+2025-05-13 12:56:38,725 - INFO - Retrieved 1 candidate profiles
+2025-05-13 13:01:40,528 - INFO - Fetching all candidate profiles
+2025-05-13 13:01:40,561 - DEBUG - Executing query to fetch all profiles
+2025-05-13 13:01:40,565 - INFO - Retrieved 1 candidate profiles
+2025-05-13 13:01:40,672 - INFO - Fetching all candidate profiles
+2025-05-13 13:01:40,684 - DEBUG - Executing query to fetch all profiles
+2025-05-13 13:01:40,686 - INFO - Retrieved 1 candidate profiles
+2025-05-13 13:27:55,631 - INFO - Fetching all candidate profiles
+2025-05-13 13:27:55,733 - DEBUG - Executing query to fetch all profiles
+2025-05-13 13:27:55,758 - INFO - Retrieved 1 candidate profiles
+2025-05-13 13:27:55,882 - INFO - Fetching all candidate profiles
+2025-05-13 13:27:55,894 - DEBUG - Executing query to fetch all profiles
+2025-05-13 13:27:55,897 - INFO - Retrieved 1 candidate profiles
+2025-05-13 14:05:48,571 - INFO - Fetching all candidate profiles
+2025-05-13 14:05:48,699 - DEBUG - Executing query to fetch all profiles
+2025-05-13 14:05:48,727 - INFO - Retrieved 1 candidate profiles
+2025-05-13 14:05:48,867 - INFO - Fetching all candidate profiles
+2025-05-13 14:05:48,873 - DEBUG - Executing query to fetch all profiles
+2025-05-13 14:05:48,874 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:13:13,612 - INFO - Fetching all candidate profiles
+2025-05-13 15:13:13,702 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:13:13,720 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:13:13,837 - INFO - Fetching all candidate profiles
+2025-05-13 15:13:13,849 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:13:13,852 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:16:13,114 - INFO - Fetching all candidate profiles
+2025-05-13 15:16:13,143 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:16:13,147 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:16:13,249 - INFO - Fetching all candidate profiles
+2025-05-13 15:16:13,274 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:16:13,277 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:19:03,408 - INFO - Fetching all candidate profiles
+2025-05-13 15:19:03,524 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:19:03,548 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:19:03,731 - INFO - Fetching all candidate profiles
+2025-05-13 15:19:03,741 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:19:03,742 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:24:52,400 - INFO - Fetching all candidate profiles
+2025-05-13 15:24:52,418 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:24:52,420 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:24:52,509 - INFO - Fetching all candidate profiles
+2025-05-13 15:24:52,533 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:24:52,534 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:35:34,684 - INFO - Fetching all candidate profiles
+2025-05-13 15:35:34,711 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:35:34,713 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:35:34,810 - INFO - Fetching all candidate profiles
+2025-05-13 15:35:34,820 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:35:34,821 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:38:06,724 - INFO - Fetching all candidate profiles
+2025-05-13 15:38:06,753 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:38:06,757 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:38:06,866 - INFO - Fetching all candidate profiles
+2025-05-13 15:38:06,879 - DEBUG - Executing query to fetch all profiles
+2025-05-13 15:38:06,882 - INFO - Retrieved 1 candidate profiles
+2025-05-13 15:59:24,977 - INFO - Register attempt for email: sara@gmail.com
+2025-05-13 15:59:24,978 - DEBUG - Register data: {'full_name': 'sara', 'email': 'sara@gmail.com', 'password': '12345678', 'confirm_password': '12345678'}
+2025-05-13 15:59:25,043 - DEBUG - Checking if email sara@gmail.com exists
+2025-05-13 15:59:25,066 - DEBUG - detected 'argon2_cffi' backend, version '23.1.0', with support for 0x13 argon2 hashes
+2025-05-13 15:59:25,110 - DEBUG - Inserting new user with email: sara@gmail.com
+2025-05-13 15:59:25,125 - INFO - User sara@gmail.com registered successfully
+2025-05-13 16:00:02,569 - INFO - Login attempt for email: sara@gmail.com
+2025-05-13 16:00:02,569 - DEBUG - Login data: {'email': 'sara@gmail.com', 'password': '12345678'}
+2025-05-13 16:00:02,580 - DEBUG - Fetching user with email: sara@gmail.com
+2025-05-13 16:00:02,628 - INFO - User sara@gmail.com logged in successfully
+2025-05-13 16:01:35,690 - INFO - Fetching all candidate profiles
+2025-05-13 16:01:35,711 - DEBUG - Executing query to fetch all profiles
+2025-05-13 16:01:35,720 - INFO - Retrieved 1 candidate profiles
+2025-05-13 16:10:22,890 - INFO - Fetching all candidate profiles
+2025-05-13 16:10:23,018 - DEBUG - Executing query to fetch all profiles
+2025-05-13 16:10:23,044 - INFO - Retrieved 1 candidate profiles
+2025-05-13 16:10:23,250 - INFO - Fetching all candidate profiles
+2025-05-13 16:10:23,261 - DEBUG - Executing query to fetch all profiles
+2025-05-13 16:10:23,262 - INFO - Retrieved 1 candidate profiles
+2025-05-13 18:09:36,063 - INFO - Fetching all candidate profiles
+2025-05-13 18:09:36,152 - DEBUG - Executing query to fetch all profiles
+2025-05-13 18:09:36,171 - INFO - Retrieved 1 candidate profiles
+2025-05-13 18:09:36,261 - INFO - Fetching all candidate profiles
+2025-05-13 18:09:36,272 - DEBUG - Executing query to fetch all profiles
+2025-05-13 18:09:36,273 - INFO - Retrieved 1 candidate profiles
+2025-05-13 18:47:22,379 - INFO - Fetching all candidate profiles
+2025-05-13 18:47:22,481 - DEBUG - Executing query to fetch all profiles
+2025-05-13 18:47:22,501 - INFO - Retrieved 1 candidate profiles
+2025-05-13 18:47:22,615 - INFO - Fetching all candidate profiles
+2025-05-13 18:47:22,621 - DEBUG - Executing query to fetch all profiles
+2025-05-13 18:47:22,622 - INFO - Retrieved 1 candidate profiles
+2025-05-13 20:12:21,252 - INFO - Fetching all candidate profiles
+2025-05-13 20:12:21,355 - DEBUG - Executing query to fetch all profiles
+2025-05-13 20:12:21,375 - INFO - Retrieved 1 candidate profiles
+2025-05-13 20:12:21,508 - INFO - Fetching all candidate profiles
+2025-05-13 20:12:21,513 - DEBUG - Executing query to fetch all profiles
+2025-05-13 20:12:21,514 - INFO - Retrieved 1 candidate profiles
+2025-05-13 20:43:49,804 - INFO - Fetching all candidate profiles
+2025-05-13 20:43:49,887 - DEBUG - Executing query to fetch all profiles
+2025-05-13 20:43:49,909 - INFO - Retrieved 1 candidate profiles
+2025-05-13 20:43:50,031 - INFO - Fetching all candidate profiles
+2025-05-13 20:43:50,037 - DEBUG - Executing query to fetch all profiles
+2025-05-13 20:43:50,039 - INFO - Retrieved 1 candidate profiles
+2025-05-13 20:59:14,350 - INFO - Fetching all candidate profiles
+2025-05-13 20:59:14,440 - DEBUG - Executing query to fetch all profiles
+2025-05-13 20:59:14,457 - INFO - Retrieved 1 candidate profiles
+2025-05-13 20:59:14,610 - INFO - Fetching all candidate profiles
+2025-05-13 20:59:14,616 - DEBUG - Executing query to fetch all profiles
+2025-05-13 20:59:14,617 - INFO - Retrieved 1 candidate profiles
+2025-05-13 21:42:53,798 - INFO - Fetching all candidate profiles
+2025-05-13 21:42:53,894 - DEBUG - Executing query to fetch all profiles
+2025-05-13 21:42:53,921 - INFO - Retrieved 1 candidate profiles
+2025-05-13 21:42:54,037 - INFO - Fetching all candidate profiles
+2025-05-13 21:42:54,044 - DEBUG - Executing query to fetch all profiles
+2025-05-13 21:42:54,045 - INFO - Retrieved 1 candidate profiles
+2025-05-13 21:49:39,147 - INFO - Fetching all candidate profiles
+2025-05-13 21:49:39,229 - DEBUG - Executing query to fetch all profiles
+2025-05-13 21:49:39,252 - INFO - Retrieved 1 candidate profiles
+2025-05-13 21:49:39,366 - INFO - Fetching all candidate profiles
+2025-05-13 21:49:39,374 - DEBUG - Executing query to fetch all profiles
+2025-05-13 21:49:39,374 - INFO - Retrieved 1 candidate profiles
+2025-05-13 22:07:34,066 - INFO - Fetching all candidate profiles
+2025-05-13 22:07:34,145 - DEBUG - Executing query to fetch all profiles
+2025-05-13 22:07:34,166 - INFO - Retrieved 1 candidate profiles
+2025-05-13 22:07:34,304 - INFO - Fetching all candidate profiles
+2025-05-13 22:07:34,316 - DEBUG - Executing query to fetch all profiles
+2025-05-13 22:07:34,317 - INFO - Retrieved 1 candidate profiles
+2025-05-13 22:40:26,144 - INFO - Fetching all candidate profiles
+2025-05-13 22:40:26,322 - DEBUG - Executing query to fetch all profiles
+2025-05-13 22:40:26,344 - INFO - Retrieved 1 candidate profiles
+2025-05-13 22:40:26,473 - INFO - Fetching all candidate profiles
+2025-05-13 22:40:26,478 - DEBUG - Executing query to fetch all profiles
+2025-05-13 22:40:26,479 - INFO - Retrieved 1 candidate profiles
+2025-05-14 09:46:33,973 - INFO - Fetching all candidate profiles
+2025-05-14 09:46:34,098 - DEBUG - Executing query to fetch all profiles
+2025-05-14 09:46:34,120 - INFO - Retrieved 1 candidate profiles
+2025-05-14 09:46:34,275 - INFO - Fetching all candidate profiles
+2025-05-14 09:46:34,280 - DEBUG - Executing query to fetch all profiles
+2025-05-14 09:46:34,281 - INFO - Retrieved 1 candidate profiles
+2025-05-14 09:48:45,401 - INFO - Fetching all candidate profiles
+2025-05-14 09:48:45,504 - DEBUG - Executing query to fetch all profiles
+2025-05-14 09:48:45,528 - INFO - Retrieved 1 candidate profiles
+2025-05-14 09:48:45,649 - INFO - Fetching all candidate profiles
+2025-05-14 09:48:45,653 - DEBUG - Executing query to fetch all profiles
+2025-05-14 09:48:45,654 - INFO - Retrieved 1 candidate profiles
+2025-05-14 10:17:29,918 - INFO - Fetching all candidate profiles
+2025-05-14 10:17:29,995 - DEBUG - Executing query to fetch all profiles
+2025-05-14 10:17:30,021 - INFO - Retrieved 1 candidate profiles
+2025-05-14 10:17:30,151 - INFO - Fetching all candidate profiles
+2025-05-14 10:17:30,156 - DEBUG - Executing query to fetch all profiles
+2025-05-14 10:17:30,157 - INFO - Retrieved 1 candidate profiles
+2025-05-14 10:26:26,088 - INFO - Fetching all candidate profiles
+2025-05-14 10:26:26,108 - DEBUG - Executing query to fetch all profiles
+2025-05-14 10:26:26,110 - INFO - Retrieved 1 candidate profiles
+2025-05-14 10:26:26,203 - INFO - Fetching all candidate profiles
+2025-05-14 10:26:26,212 - DEBUG - Executing query to fetch all profiles
+2025-05-14 10:26:26,215 - INFO - Retrieved 1 candidate profiles
+2025-05-14 12:48:11,988 - INFO - Fetching all candidate profiles
+2025-05-14 12:48:12,102 - DEBUG - Executing query to fetch all profiles
+2025-05-14 12:48:12,128 - INFO - Retrieved 1 candidate profiles
+2025-05-14 12:48:12,324 - INFO - Fetching all candidate profiles
+2025-05-14 12:48:12,255 - DEBUG - Executing query to fetch all profiles
+2025-05-14 12:48:12,257 - INFO - Retrieved 1 candidate profiles
