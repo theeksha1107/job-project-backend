@@ -1,5 +1,6 @@
 fastapi
 uvicorn[standard]
+aiosmtplib
 bcrypt
 mysql-connector-python
 pydantic
