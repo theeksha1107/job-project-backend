@@ -3,5 +3,5 @@ uvicorn[standard]
 aiosmtplib
 bcrypt
 mysql-connector-python
-pydantic
+pydantic[email]
 passlib
