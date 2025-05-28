@@ -19,7 +19,7 @@ def get_db_connection():
         connection = mysql.connector.connect(
             host="customerdatabase.mysql.database.azure.com",
             port=3306,
-            user="mysqladmin@customerdatabase",  # Must include @server-name
+            user="mysqladmin",  # Must include @server-name
             password="mypassword@123",                # Replace with your actual password
             database="employee1_db"              # Replace with your actual database name
         )
