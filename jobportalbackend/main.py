@@ -30,7 +30,7 @@ app = FastAPI()
 # CORS Middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:4200","https://jobportalfrontend-f9d6gvbngjhcb4bk.eastasia-01.azurewebsites.net",],
+    allow_origins=["http://localhost:4200"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
